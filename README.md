@@ -1,1 +1,1 @@
-# djano_rest_example
+# django_rest_example
